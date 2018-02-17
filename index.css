@@ -9,7 +9,7 @@ html {
 body {
   background-color: #163039;
   font-family: 'Play', Sans-Serif;
-  background: url(http://badgerheadgames.com/wp-content/uploads/2018/01/backgroundimg.jpg) repeat-y;
+ /* background: url(http://badgerheadgames.com/wp-content/uploads/2018/01/backgroundimg.jpg) repeat-y; */
   color: white;
   margin: 0;
   font-size: 1rem;
@@ -302,7 +302,7 @@ button:hover {
   }
   
   body {
-    background: url(http://badgerheadgames.com/wp-content/uploads/2018/02/backgroundimgbig.jpg) center center no-repeat fixed; 
+  /*  background: url(http://badgerheadgames.com/wp-content/uploads/2018/02/backgroundimgbig.jpg) center center no-repeat fixed; */
     background-size: cover;
     height: 100%;
     width: 100%;
